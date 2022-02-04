@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/drafthub_retro/static/css/main.ba2912e1.chunk.css",
+    "main.js": "/drafthub_retro/static/js/main.dd81f72e.chunk.js",
+    "main.js.map": "/drafthub_retro/static/js/main.dd81f72e.chunk.js.map",
+    "runtime-main.js": "/drafthub_retro/static/js/runtime-main.d6257e62.js",
+    "runtime-main.js.map": "/drafthub_retro/static/js/runtime-main.d6257e62.js.map",
+    "static/css/2.7d616571.chunk.css": "/drafthub_retro/static/css/2.7d616571.chunk.css",
+    "static/js/2.0ad8da93.chunk.js": "/drafthub_retro/static/js/2.0ad8da93.chunk.js",
+    "static/js/2.0ad8da93.chunk.js.map": "/drafthub_retro/static/js/2.0ad8da93.chunk.js.map",
+    "index.html": "/drafthub_retro/index.html",
+    "static/css/2.7d616571.chunk.css.map": "/drafthub_retro/static/css/2.7d616571.chunk.css.map",
+    "static/css/main.ba2912e1.chunk.css.map": "/drafthub_retro/static/css/main.ba2912e1.chunk.css.map",
+    "static/js/2.0ad8da93.chunk.js.LICENSE.txt": "/drafthub_retro/static/js/2.0ad8da93.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/drafthub_retro/static/media/et-line.d59b2385.woff",
+    "static/media/font-awesome.min.css": "/drafthub_retro/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/slick-theme.css": "/drafthub_retro/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6257e62.js",
+    "static/css/2.7d616571.chunk.css",
+    "static/js/2.0ad8da93.chunk.js",
+    "static/css/main.ba2912e1.chunk.css",
+    "static/js/main.dd81f72e.chunk.js"
+  ]
+}
